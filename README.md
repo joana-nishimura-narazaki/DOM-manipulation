@@ -12,4 +12,4 @@ Project related to the "Manipulating the DOM" course.
 
 ## Example
 
-![Exercício Dark Mode e Light Mode](./dark-mode-exercicio .gif)
+![Exercício Dark Mode e Light Mode](./dark-mode-exercicio.gif)
