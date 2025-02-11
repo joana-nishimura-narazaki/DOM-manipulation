@@ -1,15 +1,15 @@
-# Manipulando o DOM
+# Manipulating the DOM
 
-Projeto referente ao curso "Manipulando o DOM" que ministrei pela [Digital Innovation One](https://digitalinnovation.one/).
+Project related to the "Manipulating the DOM" course.
 
-## Atividade: Light Mode/Dark Mode
+## Activity: Light Mode/Dark Mode
 
-1. Crie uma estrutura básica de projeto front-end (HTML, CSS e JS)
-2. Copie o HTML e o CSS deste repositório
-3. Crie um arquivo chamado `scripts.js` na sua pasta `assets/js`
-4. Selecione os elementos: `h1`, `button`, `footer` e `body`
-5. Se os elementos possuirem a classe `dark-mode`, modifique seus estilos. Caso contrário, volte os estilos para o original
+1. Create a basic front-end project structure (HTML, CSS, and JS).
+2. Copy the HTML and CSS from this repository.
+3. Create a file called `scripts.js` inside your `assets/js` folder.
+4. Select the following elements:  `h1`, `button`, `footer` and `body`
+5. If the elements have the dark-mode class, modify their styles. Otherwise, revert them to the original styles.
 
-## Exemplo
+## Example
 
 ![Exercício Dark Mode e Light Mode](./dark-mode-exercicio.gif)
